@@ -1,0 +1,12 @@
+project:
+  name: 'BJ Summer Testing'
+  owner: 'CS105-23'
+  teamId: '888'
+  identities:
+    github:
+      url: 'https://github.com/raffrearaUS/bjsummertesting.git'
+  members:
+    member1:
+      name: 'Rtest'
+      surname: 'Ftester' 
+      githubUsername: 'raffrearaUS'
